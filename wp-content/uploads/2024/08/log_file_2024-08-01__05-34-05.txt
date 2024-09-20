@@ -1,0 +1,84 @@
+
+---Downloaded files---
+The import files for: Ruffer Demo were successfully downloaded!
+Initial max execution time = 200000
+Files info:
+Site URL = http://localhost/roofing
+Data file = D:\xampp\htdocs\roofing/wp-content/themes/ruffer/inc/demo-data/ruffer-demo.xml
+Widget file = D:\xampp\htdocs\roofing/wp-content/themes/ruffer/inc/demo-data/ruffer-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+ruffer_opt -> D:\xampp\htdocs\roofing/wp-content/themes/ruffer/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Ruffer :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+Footer Widgets Area 1 : 
+
+Ruffer :: About Us Widget - No Title - Imported
+
+Footer Widgets Area 2 : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Widgets Area 3 : 
+
+Ruffer :: Recent Posts - Recent Posts - Imported
+
+Footer Widgets Area 4 : 
+
+Ruffer :: Newslatter - Subscribe Now - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: ruffer_opt finished successfully!
+
+---ocdi/after_import---
+
